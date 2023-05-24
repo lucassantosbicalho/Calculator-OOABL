@@ -27,7 +27,7 @@ DEFINE VARIABLE Calc AS Calculator NO-UNDO.
 
 Calc = NEW Calculator().
 
-OUTPUT TO "D:\workspace\AdventOfCode\calc\testCalc.out".
+OUTPUT TO "D:\workspace\Calculator-OOABL\out\testCalc.out".
 
 MESSAGE "Testing Calculator.cls" SKIP(2).
 MESSAGE ">>> Test Add(5, 1)" SKIP.

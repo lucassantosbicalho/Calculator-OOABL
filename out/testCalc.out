@@ -13,5 +13,5 @@ Testing Calculator.cls
 >>> Result:  ERROR DIVISION BY ZERO 
 
 >>> Test Divide(5, 2)
->>> Result:  2,5 
+>>> Result:  2.5 
 
